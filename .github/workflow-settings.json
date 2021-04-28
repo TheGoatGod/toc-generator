@@ -14,7 +14,7 @@
   "TOC_MAX_HEADER_LEVEL": "3",
   "TOC_TITLE": "Details",
   "TOC_CREATE_PR": "true",
-  "TOC_TARGET_PATHS": "**.md",
+  "TOC_TARGET_PATHS": "documents/**.md",
   "BRANCH_PREFIX": "release/",
   "ANNOTATION_EXCLUDE_PATTERNS": [
     ">> warning ",

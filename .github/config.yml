@@ -7,7 +7,7 @@ requestInfoReplyComment: >
 # *OPTIONAL* default titles to check against for lack of descriptiveness
 # MUST BE ALL LOWERCASE
 requestInfoDefaultTitles:
-  - update readme.md
+  - update **.md
   - updates
   - update
 
